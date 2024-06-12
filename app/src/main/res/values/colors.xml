@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="light_pink">#FFFFCCE5</color>
+    <color name="light_sky_blue">#FF87CEFA</color>
+    <color name="light_peach">#FFFFE5B4</color>
+    <color name="light_mint_green">#FFE0FFC0</color>
+    <color name="light_coral">#FFFF8080</color>
+    <color name="light_goldenrod_yellow">#FFFAFAD2</color>
+    <color name="light_turquoise">#FFAFEEEE</color>
+    <color name="light_lilac">#FFE6D6FF</color>
+    <color name="light_salmon">#FFFFA07A</color>
+    <color name="light_gray">#FFD3D3D3</color>
+    <color name="light_orchid">#FFEE82EE</color>
+
+
+
+</resources>
